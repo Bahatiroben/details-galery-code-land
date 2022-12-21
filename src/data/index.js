@@ -1,0 +1,37 @@
+export default {
+  "bannerPosition": "bottom-left",
+  "detailsBackgroundColor": "#fff",
+  "detailsElementsColor": "#000",
+  "disableAutoplay": false,
+  "disableInfinityScroll": false,
+  "imageDetails": [
+      {
+          "desktopImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/mosaic_2/card_landscape_DT.jpg",
+          "tabletImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/mosaic_2/card_landscape_DT.jpg",
+          "mobileImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/mosaic_2/card_landscape_DT.jpg",
+          "detailsTitle": "Shangai Wukang Road",
+          "mainDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "seeMoreDescription": "Lorem ipsum dolor sit amet, consectetur sit amet, consectet01",
+          "imageNumber": "001",
+      },
+      {
+          "desktopImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/video_2/card_landscape_DT.jpg",
+          "tabletImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/video_2/card_landscape_DT.jpg",
+          "mobileImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/video_2/card_landscape_DT.jpg",
+          "detailsTitle": "Shanghai Wukang Road with long long title",
+          "mainDescription": "Lorem ipsum dolor sit amet, consectetur sit amet, consectetur",
+          "seeMoreDescription": "Lorem ipsum dolor <a href='#'>sit amet</a>, consectetur sit amet, consectet02",
+          "imageNumber": "002",
+      }
+  ],
+  "marginBottom": "13",
+  "marginBottomMobile": "7",
+  "marginBottomTablet": "12",
+  "marginTop": "20",
+  "marginTopMobile": "10",
+  "marginTopTablet": "10",
+  "moreInformationsCustomLabel": "More information",
+  "progressBarColor": "#000",
+  "showGalleryComponent": true,
+  "singleCardAutoplayTime": 7,
+};
