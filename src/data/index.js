@@ -2,13 +2,13 @@ export default {
   "bannerPosition": "bottom-left",
   "detailsBackgroundColor": "#fff",
   "detailsElementsColor": "#000",
-  "disableAutoplay": false,
+  "disableAutoplay": true,
   "disableInfinityScroll": false,
   "imageDetails": [
       {
           "desktopImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/mosaic_2/card_landscape_DT.jpg",
-          "tabletImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/mosaic_2/card_landscape_DT.jpg",
-          "mobileImage": "https://www.prada.com/content/dam/pradanux/e-commerce/2022/02/ac_factory/landing/mosaic_2/card_landscape_DT.jpg",
+          "tabletImage": "https://www.photographyblog.com/imager/entryimages/71438/canon_eos_6d_mark_ii_photos_8c9cd6ffa9b02044a7a3327bc82c5649.jpg",
+          "mobileImage": "https://jpeg.org/images/jpeg2000-home.jpg",
           "detailsTitle": "Shangai Wukang Road",
           "mainDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "seeMoreDescription": "Lorem ipsum dolor sit amet, consectetur sit amet, consectet01",
@@ -33,5 +33,5 @@ export default {
   "moreInformationsCustomLabel": "More information",
   "progressBarColor": "#000",
   "showGalleryComponent": true,
-  "singleCardAutoplayTime": 7,
+  "singleCardAutoplayTime": 5,
 };
